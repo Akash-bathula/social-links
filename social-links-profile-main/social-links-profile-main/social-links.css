@@ -1,0 +1,67 @@
+.card {
+    background-color: rgb(48, 50, 52);
+    padding: 50px;
+    margin: 300px;
+    border-radius: 3%;
+    border-color:black;
+}
+
+.container {
+    align-content: center;
+    color: white;
+    text-align: center;
+}
+
+.place {
+    color: yellow;
+}
+
+.box-1 {
+    background-color: rgb(40, 40, 40);
+    padding: 20px;
+    display: flex;
+    color:white;
+    flex-direction: column;
+    margin:10px;
+  }
+  .box-2 {
+    background-color: rgb(40, 40, 40);
+    padding: 20px;
+    display: flex;
+    color:white;
+    flex-direction: column;
+    margin:10px;
+  }
+  .box-3 {
+    background-color: rgb(40, 40, 40);
+    padding: 20px;
+    display: flex;
+    color:white;
+    flex-direction: column;
+    margin:10px;
+  }
+  .box-4 {
+    background-color: rgb(40, 40, 40);
+    padding: 20px;
+    display: flex;
+    color:white;
+    flex-direction: column;
+    margin:10px;
+  }
+  .box-5 {
+    background-color: rgb(40, 40, 40);
+    padding: 20px;
+    display: flex;
+    color:white;
+    flex-direction: column;
+    margin:10px;
+  }
+
+.avatar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    border-radius: 50%;
+}
+
